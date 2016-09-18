@@ -1,0 +1,9 @@
+1. Install SQLyog...
+2. Install Wamp_SERVER
+3. Unrar DB.rar to C:\wamp\www\
+4. now in \DB\core\database\connect.php
+	=>    change username from 'root' to yours (default is root)
+	=>    change password to yours defined by deafult its empty string
+5. run wamp server
+6. open browser and open page by url
+	=> localhost\DB\index.php	
